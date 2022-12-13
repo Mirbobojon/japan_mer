@@ -1,0 +1,6138 @@
+[
+    {
+        "postalCode": "1000100",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000101",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000102",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000103",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000104",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000211",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000212",
+        "areaName": "大島（東京都）"
+    },
+    {
+        "postalCode": "1000301",
+        "areaName": "利島"
+    },
+    {
+        "postalCode": "1000400",
+        "areaName": "新島"
+    },
+    {
+        "postalCode": "1000401",
+        "areaName": "新島"
+    },
+    {
+        "postalCode": "1000402",
+        "areaName": "新島"
+    },
+    {
+        "postalCode": "1000511",
+        "areaName": "式根島"
+    },
+    {
+        "postalCode": "1000601",
+        "areaName": "神津島"
+    },
+    {
+        "postalCode": "1001100",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001101",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001102",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001103",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001211",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001212",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001213",
+        "areaName": "三宅島"
+    },
+    {
+        "postalCode": "1001301",
+        "areaName": "御倉島"
+    },
+    {
+        "postalCode": "1001400",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001401",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001511",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001621",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001622",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001623",
+        "areaName": "八丈島"
+    },
+    {
+        "postalCode": "1001701",
+        "areaName": "青ヶ島"
+    },
+    {
+        "postalCode": "1002100",
+        "areaName": "父島"
+    },
+    {
+        "postalCode": "1002101",
+        "areaName": "父島"
+    },
+    {
+        "postalCode": "1002211",
+        "areaName": "母島"
+    },
+    {
+        "postalCode": "4130004",
+        "areaName": "初島"
+    },
+    {
+        "postalCode": "4440416",
+        "areaName": "佐久島"
+    },
+    {
+        "postalCode": "4703504",
+        "areaName": "日間賀島"
+    },
+    {
+        "postalCode": "4703505",
+        "areaName": "篠島"
+    },
+    {
+        "postalCode": "5170001",
+        "areaName": "神島"
+    },
+    {
+        "postalCode": "5170002",
+        "areaName": "答志島"
+    },
+    {
+        "postalCode": "5170003",
+        "areaName": "答志島"
+    },
+    {
+        "postalCode": "5170004",
+        "areaName": "菅島"
+    },
+    {
+        "postalCode": "5170005",
+        "areaName": "坂手"
+    },
+    {
+        "postalCode": "5170205",
+        "areaName": "渡鹿野島"
+    },
+    {
+        "postalCode": "5230801",
+        "areaName": "沖島"
+    },
+    {
+        "postalCode": "6560961",
+        "areaName": "沼島"
+    },
+    {
+        "postalCode": "6720101",
+        "areaName": "家島諸島"
+    },
+    {
+        "postalCode": "6720102",
+        "areaName": "家島諸島"
+    },
+    {
+        "postalCode": "6720103",
+        "areaName": "家島諸島"
+    },
+    {
+        "postalCode": "6840100",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840101",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840102",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840103",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840104",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840105",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840106",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840107",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840211",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840300",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840301",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840302",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840303",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840400",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840401",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840402",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840403",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840404",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840411",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840412",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6840413",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850000",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850001",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850002",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850003",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850004",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850005",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850006",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850007",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850011",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850012",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850013",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850014",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850015",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850016",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850017",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850021",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850022",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850023",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850024",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850025",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850026",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850027",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850101",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850102",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850103",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850104",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850105",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850106",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850301",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850302",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850303",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850304",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850305",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850306",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850311",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850312",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850313",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850314",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850411",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850412",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850413",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850431",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850432",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850433",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850434",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "6850435",
+        "areaName": "隠岐諸島"
+    },
+    {
+        "postalCode": "7013203",
+        "areaName": "大多府島"
+    },
+    {
+        "postalCode": "7013204",
+        "areaName": "鴻島"
+    },
+    {
+        "postalCode": "7048153",
+        "areaName": "犬島"
+    },
+    {
+        "postalCode": "7060306",
+        "areaName": "石島"
+    },
+    {
+        "postalCode": "7140035",
+        "areaName": "高島（岡山県）"
+    },
+    {
+        "postalCode": "7140036",
+        "areaName": "白石島"
+    },
+    {
+        "postalCode": "7140037",
+        "areaName": "真鍋島"
+    },
+    {
+        "postalCode": "7140038",
+        "areaName": "六島"
+    },
+    {
+        "postalCode": "7140301",
+        "areaName": "北木鳥"
+    },
+    {
+        "postalCode": "7140302",
+        "areaName": "飛島（岡山県）"
+    },
+    {
+        "postalCode": "7200204",
+        "areaName": "走島"
+    },
+    {
+        "postalCode": "7220061",
+        "areaName": "百島"
+    },
+    {
+        "postalCode": "7230021",
+        "areaName": "佐木島"
+    },
+    {
+        "postalCode": "7230022",
+        "areaName": "佐木島"
+    },
+    {
+        "postalCode": "7250200",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250231",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250301",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250302",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250303",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250401",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250402",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7250403",
+        "areaName": "大崎上島"
+    },
+    {
+        "postalCode": "7340017",
+        "areaName": "似島"
+    },
+    {
+        "postalCode": "7340101",
+        "areaName": "豊島"
+    },
+    {
+        "postalCode": "7340103",
+        "areaName": "斎島"
+    },
+    {
+        "postalCode": "7340304",
+        "areaName": "豊島（三角島）"
+    },
+    {
+        "postalCode": "7390501",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390502",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390503",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390504",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390505",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390506",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390507",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390511",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390512",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390513",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390514",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390515",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390516",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390517",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390518",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390521",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390522",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390523",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390524",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390525",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390531",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390532",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390533",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390534",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390535",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390536",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390541",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390542",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390543",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390550",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390551",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390552",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390553",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390554",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390555",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390556",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390557",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390558",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390559",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390588",
+        "areaName": "厳島（宮島）"
+    },
+    {
+        "postalCode": "7390607",
+        "areaName": "阿多田島"
+    },
+    {
+        "postalCode": "7400051",
+        "areaName": "桂島"
+    },
+    {
+        "postalCode": "7420041",
+        "areaName": "平郡島"
+    },
+    {
+        "postalCode": "7421114",
+        "areaName": "佐合島"
+    },
+    {
+        "postalCode": "7421401",
+        "areaName": "祝島"
+    },
+    {
+        "postalCode": "7421404",
+        "areaName": "八島"
+    },
+    {
+        "postalCode": "7421516",
+        "areaName": "馬島"
+    },
+    {
+        "postalCode": "7422108",
+        "areaName": "笠佐島"
+    },
+    {
+        "postalCode": "7422301",
+        "areaName": "前島（山口県）"
+    },
+    {
+        "postalCode": "7422601",
+        "areaName": "情島"
+    },
+    {
+        "postalCode": "7422801",
+        "areaName": "浮島"
+    },
+    {
+        "postalCode": "7430003",
+        "areaName": "牛島（山口県）"
+    },
+    {
+        "postalCode": "7450057",
+        "areaName": "大津島"
+    },
+    {
+        "postalCode": "7470832",
+        "areaName": "野島"
+    },
+    {
+        "postalCode": "7500095",
+        "areaName": "六連島"
+    },
+    {
+        "postalCode": "7580001",
+        "areaName": "相島"
+    },
+    {
+        "postalCode": "7580003",
+        "areaName": "大島（山口県）"
+    },
+    {
+        "postalCode": "7580701",
+        "areaName": "見島"
+    },
+    {
+        "postalCode": "7596542",
+        "areaName": "藍井島"
+    },
+    {
+        "postalCode": "7600091",
+        "areaName": "男木島"
+    },
+    {
+        "postalCode": "7600092",
+        "areaName": "女木島"
+    },
+    {
+        "postalCode": "7613110",
+        "areaName": "直島"
+    },
+    {
+        "postalCode": "7614100",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614101",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614102",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614103",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614104",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614105",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614106",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614111",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614112",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614113",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614114",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614115",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614121",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614122",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614131",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614132",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614133",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614134",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614141",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614142",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614143",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614144",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614145",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614146",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614151",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614152",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614153",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614154",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614155",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614300",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614301",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614302",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614303",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614304",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614305",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614306",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614307",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614308",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614401",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614402",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614403",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614404",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614405",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614411",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614412",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614421",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614422",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614423",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614424",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614425",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614426",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614431",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614432",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614433",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614434",
+        "areaName": "小豆島"
+    },
+    {
+        "postalCode": "7614661",
+        "areaName": "豊島"
+    },
+    {
+        "postalCode": "7614662",
+        "areaName": "豊島"
+    },
+    {
+        "postalCode": "7614663",
+        "areaName": "豊島"
+    },
+    {
+        "postalCode": "7614664",
+        "areaName": "小豊島"
+    },
+    {
+        "postalCode": "7620072",
+        "areaName": "岩黒島"
+    },
+    {
+        "postalCode": "7620073",
+        "areaName": "櫃石島"
+    },
+    {
+        "postalCode": "7630101",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630102",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630103",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630104",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630105",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630106",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630107",
+        "areaName": "広島"
+    },
+    {
+        "postalCode": "7630108",
+        "areaName": "小手島"
+    },
+    {
+        "postalCode": "7630111",
+        "areaName": "手島"
+    },
+    {
+        "postalCode": "7630221",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630222",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630223",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630224",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630225",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630226",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630227",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630228",
+        "areaName": "本島"
+    },
+    {
+        "postalCode": "7630231",
+        "areaName": "牛島（香川県）"
+    },
+    {
+        "postalCode": "7640040",
+        "areaName": "佐柳島"
+    },
+    {
+        "postalCode": "7640050",
+        "areaName": "高見島"
+    },
+    {
+        "postalCode": "7680071",
+        "areaName": "伊吹島"
+    },
+    {
+        "postalCode": "7691108",
+        "areaName": "粟島（香川県）"
+    },
+    {
+        "postalCode": "7691109",
+        "areaName": "志々島"
+    },
+    {
+        "postalCode": "7741760",
+        "areaName": "伊島"
+    },
+    {
+        "postalCode": "7750010",
+        "areaName": "大島（徳島県）"
+    },
+    {
+        "postalCode": "7750013",
+        "areaName": "出羽島"
+    },
+    {
+        "postalCode": "7880677",
+        "areaName": "沖の島"
+    },
+    {
+        "postalCode": "7880678",
+        "areaName": "沖の島"
+    },
+    {
+        "postalCode": "7880679",
+        "areaName": "鵜来島"
+    },
+    {
+        "postalCode": "7914321",
+        "areaName": "怒和島"
+    },
+    {
+        "postalCode": "7914322",
+        "areaName": "怒和島"
+    },
+    {
+        "postalCode": "7914323",
+        "areaName": "二神島"
+    },
+    {
+        "postalCode": "7914324",
+        "areaName": "津和地島"
+    },
+    {
+        "postalCode": "7914431",
+        "areaName": "陸月島"
+    },
+    {
+        "postalCode": "7914432",
+        "areaName": "野忽那島"
+    },
+    {
+        "postalCode": "7914501",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914502",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914503",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914504",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914505",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914506",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914507",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914508",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914509",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914510",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7914511",
+        "areaName": "中島"
+    },
+    {
+        "postalCode": "7918091",
+        "areaName": "興居島"
+    },
+    {
+        "postalCode": "7918092",
+        "areaName": "興居島"
+    },
+    {
+        "postalCode": "7918093",
+        "areaName": "興居島"
+    },
+    {
+        "postalCode": "7920080",
+        "areaName": "宮窪町四阪島"
+    },
+    {
+        "postalCode": "7920891",
+        "areaName": "大島（愛媛県新居浜市）"
+    },
+    {
+        "postalCode": "7941101",
+        "areaName": "岡村島"
+    },
+    {
+        "postalCode": "7941102",
+        "areaName": "小大下島"
+    },
+    {
+        "postalCode": "7941103",
+        "areaName": "大下島"
+    },
+    {
+        "postalCode": "7942410",
+        "areaName": "岩城島"
+    },
+    {
+        "postalCode": "7942500",
+        "areaName": "魚島"
+    },
+    {
+        "postalCode": "7942501",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942502",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942503",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942504",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942505",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942506",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942507",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942508",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942509",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942510",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942511",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942512",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942513",
+        "areaName": "弓削島"
+    },
+    {
+        "postalCode": "7942520",
+        "areaName": "佐島"
+    },
+    {
+        "postalCode": "7942530",
+        "areaName": "豊島"
+    },
+    {
+        "postalCode": "7942540",
+        "areaName": "魚島"
+    },
+    {
+        "postalCode": "7942541",
+        "areaName": "高井神島"
+    },
+    {
+        "postalCode": "7942542",
+        "areaName": "江ノ島"
+    },
+    {
+        "postalCode": "7942550",
+        "areaName": "生名島"
+    },
+    {
+        "postalCode": "7968060",
+        "areaName": "大島（愛媛県八幡浜市）"
+    },
+    {
+        "postalCode": "7980096",
+        "areaName": "九島"
+    },
+    {
+        "postalCode": "7980097",
+        "areaName": "九島"
+    },
+    {
+        "postalCode": "7980098",
+        "areaName": "九島"
+    },
+    {
+        "postalCode": "7980099",
+        "areaName": "日振島"
+    },
+    {
+        "postalCode": "7980212",
+        "areaName": "戸島"
+    },
+    {
+        "postalCode": "7983358",
+        "areaName": "竹ヶ島"
+    },
+    {
+        "postalCode": "7992121",
+        "areaName": "来島（小島）"
+    },
+    {
+        "postalCode": "7992122",
+        "areaName": "来島（小島）"
+    },
+    {
+        "postalCode": "7992433",
+        "areaName": "安居島"
+    },
+    {
+        "postalCode": "7993470",
+        "areaName": "青島（愛媛県）"
+    },
+    {
+        "postalCode": "8020091",
+        "areaName": "藍島"
+    },
+    {
+        "postalCode": "8020092",
+        "areaName": "馬島"
+    },
+    {
+        "postalCode": "8113511",
+        "areaName": "地島"
+    },
+    {
+        "postalCode": "8113701",
+        "areaName": "大島（福岡県）"
+    },
+    {
+        "postalCode": "8115100",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115101",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115102",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115103",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115104",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115105",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115106",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115107",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115111",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115112",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115113",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115114",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115115",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115116",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115117",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115121",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115122",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115123",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115124",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115125",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115131",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115132",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115133",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115134",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115135",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115136",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115141",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115142",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115143",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115144",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115151",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115152",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115153",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115154",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115155",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115161",
+        "areaName": "大島（長崎県壱岐市）"
+    },
+    {
+        "postalCode": "8115162",
+        "areaName": "長島"
+    },
+    {
+        "postalCode": "8115163",
+        "areaName": "原島"
+    },
+    {
+        "postalCode": "8115201",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115202",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115203",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115204",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115211",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115212",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115213",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115214",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115215",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115221",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115222",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115223",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115224",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115225",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115226",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115301",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115311",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115312",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115313",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115314",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115315",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115316",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115321",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115322",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115323",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115324",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115325",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115326",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115461",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115462",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115463",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115464",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115465",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115466",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115467",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115468",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115501",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115511",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115512",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115513",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115521",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115522",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115523",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115531",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115532",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115533",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115541",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115542",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115543",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115544",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115545",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115546",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115551",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115552",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115553",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115554",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115555",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115556",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115731",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115732",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115733",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115734",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115741",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115742",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115743",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115744",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115751",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115752",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115753",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115754",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115755",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115756",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8115757",
+        "areaName": "壱岐島"
+    },
+    {
+        "postalCode": "8170000",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170001",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170002",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170003",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170005",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170006",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170011",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170012",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170013",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170014",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170015",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170016",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170021",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170022",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170023",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170024",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170031",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170032",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170033",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170034",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170035",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170151",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170152",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170153",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170154",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170155",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170156",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170157",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170241",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170242",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170243",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170244",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170245",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170246",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170247",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170248",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170321",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170322",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170323",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170324",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170325",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170326",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170431",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170432",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170433",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170434",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170435",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170511",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170512",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170513",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8170514",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171101",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171102",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171103",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171104",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171105",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171106",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171107",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171201",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171202",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171212",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171213",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171214",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171223",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171231",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171232",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171233",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171234",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171241",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171245",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171246",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171251",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171252",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171253",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171254",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171255",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171256",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171257",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171301",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171302",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171303",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171304",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171305",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171306",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171307",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171411",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171412",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171413",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171511",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171512",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171513",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171521",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171522",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171523",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171524",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171525",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171531",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171532",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171533",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171601",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171602",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171603",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171701",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171702",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171703",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171704",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171711",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171712",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171713",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171714",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171715",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171721",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171722",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171723",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171724",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8171725",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172241",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172242",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172243",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172331",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172332",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8172333",
+        "areaName": "対馬"
+    },
+    {
+        "postalCode": "8191336",
+        "areaName": "姫島"
+    },
+    {
+        "postalCode": "8470027",
+        "areaName": "高島（佐賀県）"
+    },
+    {
+        "postalCode": "8470131",
+        "areaName": "神集島"
+    },
+    {
+        "postalCode": "8470306",
+        "areaName": "小川島"
+    },
+    {
+        "postalCode": "8470317",
+        "areaName": "加唐島"
+    },
+    {
+        "postalCode": "8470405",
+        "areaName": "馬渡島"
+    },
+    {
+        "postalCode": "8470406",
+        "areaName": "松島（佐賀県）"
+    },
+    {
+        "postalCode": "8471524",
+        "areaName": "向島"
+    },
+    {
+        "postalCode": "8511315",
+        "areaName": "高島（長崎県長崎市）"
+    },
+    {
+        "postalCode": "8530000",
+        "areaName": "福江島/姫島"
+    },
+    {
+        "postalCode": "8530001",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530002",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530003",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530004",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530005",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530006",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530007",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530011",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530012",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530013",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530014",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530015",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530016",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530017",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530018",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530021",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530022",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530023",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530024",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530025",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530026",
+        "areaName": "男島"
+    },
+    {
+        "postalCode": "8530027",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530031",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530032",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530033",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530041",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530042",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530043",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530044",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530051",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530052",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530053",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530054",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530061",
+        "areaName": "黄島"
+    },
+    {
+        "postalCode": "8530062",
+        "areaName": "赤島"
+    },
+    {
+        "postalCode": "8530063",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530064",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530065",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530066",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530201",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530202",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530203",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530204",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530205",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530206",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530207",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530208",
+        "areaName": "黒島（長崎県五島市）"
+    },
+    {
+        "postalCode": "8530211",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530212",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530213",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530214",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530215",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530311",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530312",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530313",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530411",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530412",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530413",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530501",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530502",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530503",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530504",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530505",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530506",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530507",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530508",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530601",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530602",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530603",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530604",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530605",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530606",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530607",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530608",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530609",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530611",
+        "areaName": "嵯峨島"
+    },
+    {
+        "postalCode": "8530612",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530613",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530701",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530702",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530703",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530704",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530705",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8530706",
+        "areaName": "福江島"
+    },
+    {
+        "postalCode": "8532171",
+        "areaName": "久賀島"
+    },
+    {
+        "postalCode": "8532172",
+        "areaName": "久賀島"
+    },
+    {
+        "postalCode": "8532173",
+        "areaName": "久賀島"
+    },
+    {
+        "postalCode": "8532174",
+        "areaName": "久賀島"
+    },
+    {
+        "postalCode": "8532201",
+        "areaName": "奈留島"
+    },
+    {
+        "postalCode": "8532202",
+        "areaName": "奈留島"
+    },
+    {
+        "postalCode": "8532203",
+        "areaName": "奈留島"
+    },
+    {
+        "postalCode": "8532204",
+        "areaName": "奈留島"
+    },
+    {
+        "postalCode": "8532301",
+        "areaName": "若松島"
+    },
+    {
+        "postalCode": "8532302",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8532303",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8532304",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8532305",
+        "areaName": "若松島"
+    },
+    {
+        "postalCode": "8532311",
+        "areaName": "若松島"
+    },
+    {
+        "postalCode": "8532312",
+        "areaName": "日島"
+    },
+    {
+        "postalCode": "8532313",
+        "areaName": "有福島"
+    },
+    {
+        "postalCode": "8532314",
+        "areaName": "漁生浦島"
+    },
+    {
+        "postalCode": "8532315",
+        "areaName": "若松島"
+    },
+    {
+        "postalCode": "8532481",
+        "areaName": "椛島/ツプラ島"
+    },
+    {
+        "postalCode": "8532482",
+        "areaName": "椛島"
+    },
+    {
+        "postalCode": "8533101",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8533102",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8533321",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8533322",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8533323",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8570071",
+        "areaName": "池島"
+    },
+    {
+        "postalCode": "8572531",
+        "areaName": "松島（長崎県）"
+    },
+    {
+        "postalCode": "8572532",
+        "areaName": "松島（長崎県）"
+    },
+    {
+        "postalCode": "8573271",
+        "areaName": "黒島（長崎県佐世保市）"
+    },
+    {
+        "postalCode": "8574101",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574102",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574103",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574211",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574212",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574213",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574214",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574400",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574401",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574402",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574404",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574405",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574411",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574412",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574413",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574414",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574415",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574416",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574511",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574512",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574513",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574514",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574601",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574602",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574603",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574604",
+        "areaName": "中通島"
+    },
+    {
+        "postalCode": "8574700",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574701",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574702",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574703",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574704",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574705",
+        "areaName": "小値賀島"
+    },
+    {
+        "postalCode": "8574706",
+        "areaName": "黒島（長崎県北松浦郡）"
+    },
+    {
+        "postalCode": "8574707",
+        "areaName": "班島"
+    },
+    {
+        "postalCode": "8574708",
+        "areaName": "大島（長崎県北松浦郡）"
+    },
+    {
+        "postalCode": "8574709",
+        "areaName": "野崎島"
+    },
+    {
+        "postalCode": "8574711",
+        "areaName": "納島"
+    },
+    {
+        "postalCode": "8574712",
+        "areaName": "六島"
+    },
+    {
+        "postalCode": "8574811",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574812",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574813",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574814",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574815",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574816",
+        "areaName": "宇久町寺島"
+    },
+    {
+        "postalCode": "8574901",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574902",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574903",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8574904",
+        "areaName": "宇久島"
+    },
+    {
+        "postalCode": "8580931",
+        "areaName": "高島（長崎県佐世保市）"
+    },
+    {
+        "postalCode": "8594309",
+        "areaName": "黒島（長崎県松浦市）"
+    },
+    {
+        "postalCode": "8594529",
+        "areaName": "飛島（長崎県）"
+    },
+    {
+        "postalCode": "8594745",
+        "areaName": "青島（長崎県）"
+    },
+    {
+        "postalCode": "8594827",
+        "areaName": "横島"
+    },
+    {
+        "postalCode": "8595101",
+        "areaName": "度島"
+    },
+    {
+        "postalCode": "8595801",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8595802",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8595803",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8595804",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8595805",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8595806",
+        "areaName": "的山大島"
+    },
+    {
+        "postalCode": "8660303",
+        "areaName": "横浦島"
+    },
+    {
+        "postalCode": "8660313",
+        "areaName": "御所浦島"
+    },
+    {
+        "postalCode": "8660334",
+        "areaName": "牧島"
+    },
+    {
+        "postalCode": "8693711",
+        "areaName": "湯島"
+    },
+    {
+        "postalCode": "8721501",
+        "areaName": "姫島"
+    },
+    {
+        "postalCode": "8760001",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760002",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760003",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760004",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760005",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760006",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760007",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8760008",
+        "areaName": "大入島"
+    },
+    {
+        "postalCode": "8761313",
+        "areaName": "大島（大分県）"
+    },
+    {
+        "postalCode": "8792501",
+        "areaName": "保戸島"
+    },
+    {
+        "postalCode": "8820096",
+        "areaName": "島浦島"
+    },
+    {
+        "postalCode": "8900901",
+        "areaName": "硫黄島"
+    },
+    {
+        "postalCode": "8900902",
+        "areaName": "黒島（鹿児島県）"
+    },
+    {
+        "postalCode": "8900903",
+        "areaName": "竹島"
+    },
+    {
+        "postalCode": "8913100",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913101",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913102",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913103",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913104",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913111",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913112",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913113",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913114",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913115",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913116",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913117",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913118",
+        "areaName": "馬毛島"
+    },
+    {
+        "postalCode": "8913202",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913221",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913222",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913431",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913432",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913600",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913601",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913602",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913603",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913604",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913605",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913606",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913607",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913701",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913702",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913703",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913704",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913705",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8913706",
+        "areaName": "種子島"
+    },
+    {
+        "postalCode": "8914200",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914201",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914202",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914203",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914204",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914205",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914206",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914207",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914208",
+        "areaName": "口永良部島"
+    },
+    {
+        "postalCode": "8914311",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914312",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914401",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914402",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914403",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914404",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914405",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914406",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914407",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914408",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8914409",
+        "areaName": "屋久島"
+    },
+    {
+        "postalCode": "8915101",
+        "areaName": "口之島"
+    },
+    {
+        "postalCode": "8915200",
+        "areaName": "臥蛇島"
+    },
+    {
+        "postalCode": "8915201",
+        "areaName": "中之島"
+    },
+    {
+        "postalCode": "8915202",
+        "areaName": "平島"
+    },
+    {
+        "postalCode": "8915203",
+        "areaName": "諏訪之瀬島"
+    },
+    {
+        "postalCode": "8915204",
+        "areaName": "悪石島"
+    },
+    {
+        "postalCode": "8915205",
+        "areaName": "小宝島"
+    },
+    {
+        "postalCode": "8915301",
+        "areaName": "宝島"
+    },
+    {
+        "postalCode": "8916141",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916142",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916143",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916144",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916151",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916152",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916153",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916154",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916161",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916162",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916163",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916164",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916200",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916201",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916202",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916203",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916211",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916212",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916213",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916214",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916215",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916216",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916217",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916221",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916222",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916223",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916224",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916225",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916226",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916227",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916228",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916229",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916231",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916232",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8916233",
+        "areaName": "喜界島"
+    },
+    {
+        "postalCode": "8917100",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917101",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917102",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917103",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917104",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917105",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917111",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917112",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917113",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917114",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917115",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917116",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917421",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917422",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917423",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917424",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917425",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917426",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917600",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917601",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917602",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917603",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917604",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917605",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917611",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917612",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917621",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917622",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917623",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917624",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8917731",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918111",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918112",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918113",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918114",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918115",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918116",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918117",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918201",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918216",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918221",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918300",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918321",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918322",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918323",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918324",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918325",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918326",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918327",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918328",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8918329",
+        "areaName": "徳之島"
+    },
+    {
+        "postalCode": "8919100",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919101",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919102",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919103",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919104",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919111",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919112",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919113",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919114",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919115",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919116",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919121",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919122",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919123",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919124",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919125",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919131",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919132",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919133",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919134",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919135",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919136",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919200",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919201",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919202",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919203",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919204",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919205",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919206",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919207",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919211",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919212",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919213",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919214",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919215",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919221",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919222",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919223",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919224",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919231",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919232",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919233",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919234",
+        "areaName": "沖永良部島"
+    },
+    {
+        "postalCode": "8919300",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919301",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919302",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919303",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919304",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919305",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919306",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919307",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919308",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8919309",
+        "areaName": "与論島"
+    },
+    {
+        "postalCode": "8940000",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940001",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940002",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940003",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940004",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940005",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940006",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940007",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940008",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940011",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940012",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940013",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940014",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940015",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940016",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940017",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940021",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940022",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940023",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940024",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940025",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940026",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940027",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940031",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940032",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940033",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940034",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940035",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940036",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940041",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940042",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940043",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940044",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940045",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940046",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940047",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940048",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940061",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940062",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940063",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940068",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940100",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940101",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940102",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940103",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940104",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940105",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940106",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940107",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940108",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940321",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940322",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940323",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940324",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940331",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940332",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940333",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940351",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940352",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940411",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940412",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940501",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940502",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940503",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940504",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940505",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940506",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940507",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940508",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940511",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940512",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940513",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940621",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940622",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940623",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940624",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940625",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940626",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940627",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940771",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940772",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940773",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940774",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940775",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8940776",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941111",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941112",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941113",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941114",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941115",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941116",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941201",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941202",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941203",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941204",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941205",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941304",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941321",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941500",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941501",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941502",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941503",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941504",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941505",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941506",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941507",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941508",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941509",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941510",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941511",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941512",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941513",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941514",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941515",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941521",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941522",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941523",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941524",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941531",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941741",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941742",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941743",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941744",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941745",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941746",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941851",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941852",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941853",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941854",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8941855",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8942141",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942142",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942143",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942144",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942231",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942232",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942233",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942234",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942235",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942236",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942237",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942321",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942322",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942323",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942401",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942402",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942403",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942404",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942411",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942412",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942413",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942414",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942415",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942416",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942417",
+        "areaName": "加計呂麻島"
+    },
+    {
+        "postalCode": "8942501",
+        "areaName": "請島"
+    },
+    {
+        "postalCode": "8942502",
+        "areaName": "請島"
+    },
+    {
+        "postalCode": "8942601",
+        "areaName": "与路島"
+    },
+    {
+        "postalCode": "8943100",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943101",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943102",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943103",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943104",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943105",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943106",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943107",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943211",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943212",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943213",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943214",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943300",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943301",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943302",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943303",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943304",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943305",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943411",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943412",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943413",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943521",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943522",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943523",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943631",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943632",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8943633",
+        "areaName": "奄美大島"
+    },
+    {
+        "postalCode": "8961101",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961201",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961202",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961203",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961204",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961205",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961206",
+        "areaName": "上甑島"
+    },
+    {
+        "postalCode": "8961281",
+        "areaName": "中甑島"
+    },
+    {
+        "postalCode": "8961301",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961411",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961412",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961512",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961521",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961601",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8961602",
+        "areaName": "下甑島"
+    },
+    {
+        "postalCode": "8991501",
+        "areaName": "獅子島"
+    },
+    {
+        "postalCode": "9280072",
+        "areaName": "?倉島"
+    },
+    {
+        "postalCode": "9520000",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520001",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520002",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520003",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520004",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520005",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520006",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520007",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520011",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520012",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520013",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520014",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520015",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520016",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520021",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520022",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520023",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520024",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520025",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520026",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520027",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520028",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520101",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520102",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520103",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520104",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520105",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520106",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520107",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520108",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520109",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520111",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520112",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520113",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520114",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520115",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520116",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520201",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520202",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520203",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520204",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520205",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520206",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520207",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520211",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520212",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520213",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520214",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520215",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520216",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520301",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520302",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520303",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520304",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520305",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520306",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520307",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520311",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520312",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520313",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520314",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520315",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520316",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520317",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520318",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520321",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520322",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520421",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520422",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520431",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520432",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520433",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520434",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520435",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520501",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520502",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520503",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520504",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520505",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520511",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520512",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520513",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520514",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520515",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520601",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520602",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520603",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520604",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520605",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520606",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520611",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520612",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520613",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520614",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520615",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520621",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520622",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520623",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520624",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520625",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520626",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520701",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520702",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520703",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520704",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520705",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520706",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520711",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520712",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520713",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520714",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520715",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520716",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520821",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520822",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520823",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520824",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520851",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520852",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520853",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520854",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520855",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520856",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9520857",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521201",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521202",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521203",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521204",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521205",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521206",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521207",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521208",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521209",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521211",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521212",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521213",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521301",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521302",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521303",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521304",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521305",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521306",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521307",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521308",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521311",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521312",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521313",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521314",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521315",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521321",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521322",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521323",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521324",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521325",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521326",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521431",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521432",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521433",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521434",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521435",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521501",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521502",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521503",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521504",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521505",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521506",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521507",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521508",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521511",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521512",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521513",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521514",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521515",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521516",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521517",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521518",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521521",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521522",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521523",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521524",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521525",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521526",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521527",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521528",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521531",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521532",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521533",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521534",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521535",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521536",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521537",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521538",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521539",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521541",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521542",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521543",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521544",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521545",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521546",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521547",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521548",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521551",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521552",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521553",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521554",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521555",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521556",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521557",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521558",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521561",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521562",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521563",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521564",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521565",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521566",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521567",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521568",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521571",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521572",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521573",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521574",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521575",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521581",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521582",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521583",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521584",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521641",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521642",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521643",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521644",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521645",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9521646",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522131",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522132",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522133",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522134",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522135",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522136",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522201",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522202",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522203",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522204",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522205",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522206",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522211",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522212",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522213",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522214",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522215",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522221",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522222",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522223",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522224",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522225",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9522226",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523111",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523112",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523113",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523114",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523115",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523116",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523117",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523118",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523119",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523201",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523202",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523203",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523204",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523205",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523206",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523207",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523421",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523422",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523423",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523424",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523425",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523431",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523432",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523433",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523434",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523435",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523541",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523542",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523543",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523544",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523545",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9523546",
+        "areaName": "佐渡島"
+    },
+    {
+        "postalCode": "9580061",
+        "areaName": "粟島（新潟県）"
+    },
+    {
+        "postalCode": "9850191",
+        "areaName": "桂島"
+    },
+    {
+        "postalCode": "9850192",
+        "areaName": "桂島"
+    },
+    {
+        "postalCode": "9850193",
+        "areaName": "野々島"
+    },
+    {
+        "postalCode": "9850194",
+        "areaName": "寒風沢島"
+    },
+    {
+        "postalCode": "9850195",
+        "areaName": "朴島"
+    },
+    {
+        "postalCode": "9860023",
+        "areaName": "田代島"
+    },
+    {
+        "postalCode": "9862211",
+        "areaName": "出島"
+    },
+    {
+        "postalCode": "9862212",
+        "areaName": "江島"
+    },
+    {
+        "postalCode": "9862523",
+        "areaName": "金華山"
+    },
+    {
+        "postalCode": "9862525",
+        "areaName": "網地島"
+    },
+    {
+        "postalCode": "9862526",
+        "areaName": "網地島"
+    },
+    {
+        "postalCode": "9880601",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880602",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880603",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880604",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880605",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880606",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880607",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880611",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880612",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880613",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880621",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880622",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880623",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880631",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880632",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880633",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9880634",
+        "areaName": "大島（宮城県）"
+    },
+    {
+        "postalCode": "9980281",
+        "areaName": "飛島（山形県）"
+    },
+    {
+        "postalCode": "431400",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431401",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431402",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431403",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431404",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431405",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431406",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431521",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431522",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431523",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431524",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "431525",
+        "areaName": "奥尻島"
+    },
+    {
+        "postalCode": "783871",
+        "areaName": "焼尻島"
+    },
+    {
+        "postalCode": "783951",
+        "areaName": "天売島"
+    },
+    {
+        "postalCode": "783952",
+        "areaName": "天売島"
+    },
+    {
+        "postalCode": "783953",
+        "areaName": "天売島"
+    },
+    {
+        "postalCode": "783954",
+        "areaName": "天売島"
+    },
+    {
+        "postalCode": "783955",
+        "areaName": "天売島"
+    },
+    {
+        "postalCode": "881103",
+        "areaName": "小島"
+    },
+    {
+        "postalCode": "970100",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "970101",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "970211",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "970311",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "970400",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "970401",
+        "areaName": "利尻島"
+    },
+    {
+        "postalCode": "971111",
+        "areaName": "礼文島"
+    },
+    {
+        "postalCode": "971200",
+        "areaName": "礼文島"
+    },
+    {
+        "postalCode": "971201",
+        "areaName": "礼文島"
+    },
+    {
+        "postalCode": "971202",
+        "areaName": "礼文島"
+    }
+]

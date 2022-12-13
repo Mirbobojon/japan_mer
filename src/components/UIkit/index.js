@@ -1,0 +1,5 @@
+export {default as DesignButton} from './DesignButton'
+export {default as PrimaryButton} from './PrimaryButton'
+export {default as ImageSelectyButton} from './ImageSelectyButton'
+export {default as MainContentH2} from './MainContentH2'
+export {default as Paging} from './Paging'

@@ -1,0 +1,175 @@
+import React from 'react'
+import PropTypes from 'prop-types'
+import { withRouter } from 'react-router'
+import { SquarePaymentForm,
+  CreditCardNumberInput,
+  CreditCardExpirationDateInput,
+  CreditCardCVVInput,
+  CreditCardSubmitButton } from 'react-square-payment-form'
+import 'react-square-payment-form/lib/default.css'
+import axios from 'axios'
+import { HomeDir, ApiDir, RouteDir, applicationId, locationId } from '../../common'
+
+
+class PaymentPage extends React.Component {
+
+  constructor(props) {
+    super(props)
+    this.state = {
+      errorMessages: [],
+    }
+  }
+
+  static propTypes = {
+    match: PropTypes.object.isRequired,
+    location: PropTypes.object.isRequired,
+    history: PropTypes.object.isRequired
+  }
+
+  cardNonceResponseReceived = (errors, nonce, cardData, buyerVerificationToken) => {
+    if (errors) {
+      this.setState({ errorMessages: errors.map(error => error.message) })
+      return
+    }
+
+    this.setState({ errorMessages: [] })
+
+    const data =
+    {
+      procedure: this.props.procedure,
+      total_price: this.props.totalPrice,
+      location_id: locationId,
+      member_id: this.props.memberId,
+      nonce: nonce,
+      buyerVerificationToken: buyerVerificationToken,
+      items: this.props.items,
+      delivery_family_name: this.props.deliveryFamilyName,
+      delivery_first_name: this.props.deliveryFirstName,
+      delivery_family_name_furigana: this.props.deliveryFamilyNameFurigana,
+      delivery_first_name_furigana: this.props.deliveryFirstNameFurigana,
+      delivery_postal_code: this.props.deliveryPostalCode,
+      delivery_address: this.props.deliveryAddress,
+      delivery_telnumber: this.props.deliveryTelnumber
+    }
+    let params = new URLSearchParams();
+    params.append('data',JSON.stringify(data));
+
+    //決済処理実行処理
+    const sendPayment = async () =>
+    {
+      const res = await axios.post(ApiDir + '/sendPayment.php', params)
+      return res;
+      // if(res.data.payment !== undefined)
+      // {
+      //   if(res.data.payment.status !== undefined)
+      //   {
+      //     return res.data.payment.status;
+      //   }
+      //   else
+      //   {
+      //     return res.data;
+      //   }
+      // }
+      // else
+      // {
+      //   return res.data;
+      // }
+    }
+
+    //決済処理の返り値によって遷移先変更
+    const waitFunc = async() =>
+    {
+      const res = await sendPayment();
+      if(res === 'COMPLETED')
+      {
+        this.props.history.push(RouteDir+'/mypage/order_completed');
+      }
+      else
+      {
+        this.props.history.push(RouteDir+'/mypage/order_completed');
+      }
+      return;
+    }
+
+    waitFunc();
+  }
+
+  createVerificationDetails =() => {
+    return {
+      amount: toString(this.props.totalPrice),
+      currencyCode: "JPY",
+      intent: "CHARGE",
+      billingContact: {
+        familyName: this.props.familyName,
+        givenName: this.props.firstName,
+        email: this.props.mailaddress,
+        country: "JP",
+        city: this.props.address1+this.props.address2+this.props.address3,
+        addressLines: [''],
+        postalCode: this.props.postalCode,
+        phone: this.props.telnumber
+      }
+    }
+  }
+
+  render() {
+    return (
+      <div>
+        <SquarePaymentForm
+          sandbox={true}
+          applicationId={applicationId}
+          locationId={locationId}
+          cardNonceResponseReceived={this.cardNonceResponseReceived}
+          createVerificationDetails={this.createVerificationDetails}
+        >
+          <fieldset className="sq-fieldset">
+            <CreditCardNumberInput
+              label = {'カード番号'}
+            />
+            <div className="sq-form-third">
+              <CreditCardExpirationDateInput
+                label = {'有効期限'}
+              />
+            </div>
+
+            {/* <div className="sq-form-third">
+              <CreditCardPostalCodeInput />
+            </div> */}
+
+            <div className="sq-form-third">
+              <CreditCardCVVInput />
+            </div>
+          </fieldset>
+          
+          <div id="paymentSubmitBtn">
+            <CreditCardSubmitButton>
+                決済する
+            </CreditCardSubmitButton>
+          </div>
+        </SquarePaymentForm>
+
+        <div className="sq-error-message">
+          {this.state.errorMessages.map(errorMessage =>
+            <li key={`sq-error-${errorMessage}`}>
+              {(() => {
+                switch (errorMessage) {
+                  case "Credit card number is not valid":
+                    return "クレジットカード番号が正しくありません。"
+                  case "CVV is not valid":
+                    return "セキュリティコード（CVV）が正しくありません。"
+                  case "Expiration date is not valid":
+                    return "有効期限が正しくありません。"
+                  default:
+                    return errorMessage
+                }
+              })()}
+            </li>
+          )}
+        </div>
+
+      </div>
+    )
+  }
+}
+
+export default withRouter(PaymentPage);
